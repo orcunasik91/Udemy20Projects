@@ -22,5 +22,13 @@ namespace Project1_AdonetCustomer
         {
             Application.Exit();
         }
+
+        private void btnCustomerForm_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Form2 customerForm = new Form2();
+            customerForm.Owner = this;
+            customerForm.Show();
+        }
     }
 }
