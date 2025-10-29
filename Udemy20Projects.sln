@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project1_AdonetCustomer", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project2_EFDbFirstProduct", "Project2_EFDbFirstProduct\Project2_EFDbFirstProduct.csproj", "{D59DFF5E-3E08-4F26-8C6A-8E854B5E0F3B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project3_EFStatistics", "Project3_EFStatistics\Project3_EFStatistics.csproj", "{0C8A9FC4-2975-4992-AD41-AE279C35E898}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D59DFF5E-3E08-4F26-8C6A-8E854B5E0F3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D59DFF5E-3E08-4F26-8C6A-8E854B5E0F3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D59DFF5E-3E08-4F26-8C6A-8E854B5E0F3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C8A9FC4-2975-4992-AD41-AE279C35E898}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C8A9FC4-2975-4992-AD41-AE279C35E898}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C8A9FC4-2975-4992-AD41-AE279C35E898}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C8A9FC4-2975-4992-AD41-AE279C35E898}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
